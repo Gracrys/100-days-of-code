@@ -35,6 +35,21 @@
 
 **Link to work:** https://codesandbox.io/s/7yj680yvmx
 
+### Day 5: January 2, 2019 
+##### 
+
+**Today's Progress**: Working with surge and my portfolio
+**Thoughts:** 
+**Link to work:**  gracrys.surge.sh
+
+
+### Day 6: January 3, 2019 
+##### 
+
+**Today's Progress**: Working on the page
+**Thoughts:** layout
+**Link to work:**  gracrys.surge.sh
+
 Stay in tune
 
 
